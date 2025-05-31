@@ -1,4 +1,5 @@
 # HOLAAAA!!! :D
+####  Alumno: Genaro Isaac Cardenas Soto 2-3 
 ![komi](imgs/komi.jpg)
 
 
