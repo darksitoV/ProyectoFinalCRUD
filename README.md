@@ -1,4 +1,9 @@
+HOLAAAA!!! :D
+![komi](imgs/komi.jpeg)
+
+
 # Proyecto Final React + NodeJs
+
 
 ## - Tecnologias -
 
