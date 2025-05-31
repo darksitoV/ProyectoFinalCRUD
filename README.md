@@ -12,7 +12,7 @@
 * NodeJs + Express + Sequelize
 * Sqlite3
   
-#### Creacion de un CRUD integrando BackEnd(Api) + FrontEnd(Cliente)
+### Creacion de un CRUD integrando BackEnd(Api) + FrontEnd(Cliente)
 
 Se realizara un CRUD en base a un sistema de CITAS, las cuales seran para registrar ciertas citas que tengas agendadas en algun horario en especifico para no olvidar cuando tienes estas citas
 como:
@@ -35,10 +35,12 @@ como:
 ![rutas](imgs/rutas.png)
 
 ### Conexion a la DB 
+No hay mucho que decir se especifica el tipo de dialect, que es el sistema gestor de base de datos que se usara que en este caso es sqlite3 y storage es la ubicacion de donde se encuentra la base de datos de sqlite3
 ![conexion](imgs/conexion.png)
 
 ### Modelo para la tabla de sqlite3
 Se crea el modelo para la tabla de sqlite3 para que el ORM entienda como esta construida, donde se colocan los campos de la tabla, tipos de datos y especificacion de checks especilaes como primary key o unique
+
 ![modelo](imgs/modelo.png)
 
 # FrontEnd (Componentes)
