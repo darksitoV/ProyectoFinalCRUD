@@ -34,14 +34,14 @@ como:
 * 
 ![rutas](imgs/rutas.png)
 
-# Se probaron las 4 rutas por medio de postman para realizar pruebas y posteriormente ya se realizo la integracion con el FrontEnd
-## Crear una cita nueva para el sistema 
+## Se probaron las 4 rutas por medio de postman para realizar pruebas y posteriormente ya se realizo la integracion con el FrontEnd
+### Crear una cita nueva para el sistema 
 ![crear](imgs/crear.png)
-## Obtener los registros actuales de la tabla (todas las citas)
+### Obtener los registros actuales de la tabla (todas las citas)
 ![obtener](imgs/obtener.png)
-## Eliminar una cita por medio del id
+### Eliminar una cita por medio del id
 ![elimianr](imgs/eliminar.png)
-## Actualizar 1 cita en especifico cualquiera de sus valores
+### Actualizar 1 cita en especifico cualquiera de sus valores
 ![actualiazar](imgs/actualizar.png)
 
 ### Conexion a la DB 
