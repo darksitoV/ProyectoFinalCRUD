@@ -1,5 +1,5 @@
 HOLAAAA!!! :D
-![komi](imgs/komi.jpeg)
+![komi](imgs/komi.jpg)
 
 
 # Proyecto Final React + NodeJs
