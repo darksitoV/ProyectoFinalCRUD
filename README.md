@@ -12,7 +12,7 @@
 * NodeJs + Express + Sequelize
 * Sqlite3
   
-### Creacion de un CRUD integrando BackEnd(Api) + FrontEnd(Cliente)
+## Creacion de un CRUD integrando BackEnd(Api) + FrontEnd(Cliente)
 
 Se realizara un CRUD en base a un sistema de CITAS, las cuales seran para registrar ciertas citas que tengas agendadas en algun horario en especifico para no olvidar cuando tienes estas citas
 como:
