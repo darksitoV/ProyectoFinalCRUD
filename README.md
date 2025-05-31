@@ -59,9 +59,13 @@ En este componente basicamente se crea el formulario asi donde se espera recibir
 * hora
 * servicio
 * notas
-![app](imgs/citaformulario.png)
+![citaformulario](imgs/citaformulario.png)
 
-#### Componente citaformulario.jsx
+#### Componente citalista.jsx
+En este componente basicamente se obtiene el registro del backend y apartir de ese registro se genera una tabla para poder mostrar la informacion conjunto a las acciones 
+que son editar - eliminar  las cuales editar sirve para actualizar los registros y eliminar los elimina
+![citalista](imgs/citalista.png)
+
 
 
 
